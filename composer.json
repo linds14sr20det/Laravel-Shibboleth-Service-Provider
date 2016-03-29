@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "StudentAffairsUwm\\Shibboleth\\": "src/StudentAffairsUwm/Shibboleth"
+            "linds14sr20det\\Shibboleth\\": "src/StudentAffairsUwm/Shibboleth"
         }
     },
     "minimum-stability": "stable"
